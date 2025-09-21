@@ -5,7 +5,7 @@ const SignUpPage = () => {
    <div className='bg-white'>
         <div className='w-auto rounded-2xl bg-gray-200 flex justify-center items-center h-screen gap-5 p-15 outline-yellow-800'>
             <div className='flex flex-col items-center justify-center gap-15 bg-white p-25 rounded-lg'>
-            <h3 className='font-semibold gap-4 text-5xl font-display'>LOGIN PAGE</h3>
+            <h3 className='font-semibold gap-4 text-5xl font-display text-yellow-700'>LOGIN PAGE</h3>
             <input type="text" placeholder='Please enter Username' className='w-100 font-display rounded-2xl bg-gray-200 text-gray-900 h-[50px] m-2 p-4'></input>
             <input type="text" placeholder='Please enter Email' className='w-100 font-display rounded-2xl bg-gray-200 text-gray-900 h-[50px] m-2 p-4'></input>
             <input type="text" placeholder='Please enter Password' className='w-100 font-display rounded-2xl bg-gray-200 text-gray-900 h-[50px] m-2 p-4'></input>
